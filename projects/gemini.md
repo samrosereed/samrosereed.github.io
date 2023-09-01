@@ -12,7 +12,7 @@ labels:
 summary: "I worked on developing Gemini North's new engineering archive."
 ---
 
-<img class="img-fluid" src="img/gemini/GeminiMontage.jpg">
+<img class="img-fluid" src="..img/gemini/GeminiMontage.jpg">
 
 
 <hr>
