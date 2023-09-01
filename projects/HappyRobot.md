@@ -15,7 +15,7 @@ summary: "A robot project I did for my independent research project class."
 
 I was interested in exploring human - robot interactions and seeing how much the NAO robots could recognize human emotions. 
 
-This all stemmed from the "Get Smile" behavior in Choregraphe. I was interested in creating a robot that could help with people's mental health, so that if someone was looking sad, NAO would tell a joke to cheer them up
+This all stemmed from the "Get Smile" behavior in Choregraphe. I was interested in creating a robot that could help with people's mental health, so that if someone was looking sad, NAO would tell a joke to cheer them up.
 </pre>
 
 <hr>
