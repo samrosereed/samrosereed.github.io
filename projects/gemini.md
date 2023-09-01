@@ -27,5 +27,3 @@ The Gemini Observatory consists of two twin telescopes; one located in La Serena
   By implementing this Next Generation GEA, an improved understanding of the telescope's operations will be achieved, enabling scientists to easily gather data and better understand essential telescope processes.
 
 <hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
