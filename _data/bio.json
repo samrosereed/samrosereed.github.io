@@ -10,16 +10,14 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "samrosereed", "url": "https://github.com/samrosereed" },
-      { "network": "linkedin", "username": "samrosereed", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "samrosereed", "url": "https://www.linkedin.com/in/samantha-reed-a2939a28a/" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Machine Learning" },
     { "name": "Robotics" },
-    { "name": "Math" },
+    { "name": "Mathematics" },
     { "name": "Baking" },
 
   ],
