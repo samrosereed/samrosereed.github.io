@@ -8,7 +8,7 @@ published: true
 labels:
   - Robotics
   - Python
-summary: "An indepedent research poject with the goal of programming the robot to tell jokes when someone appeared sad."
+summary: "An indepedent research project with the goal of programming the robot to tell jokes when someone appeared sad."
 ---
 
 <img class="img-fluid" src="../img/HappyRobot/SoftBank-Robotics-NAO_0.png">
