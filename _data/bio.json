@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windos", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -42,7 +42,7 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
      {
       "institution": "Kapi'olani Community College",
       "area": "Computer Science",
@@ -83,7 +83,7 @@
       "date": "Spring 2022",
       "awarder": "Kapiolani Community College",
       "summary": "Merit based award to students that excel in STEM courses."
-    },
+    }
 
   ],
   "references": [
