@@ -1,0 +1,50 @@
+/* Pastel Pink Theme: modifies the default theme to use pastel pink in various places. */
+
+/* Use Open Sans as the default font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-pink1: #ff99aa; /* Light Pastel Pink */
+  --tf-pink2: #ff66a3; /* Medium Pastel Pink */
+  --tf-pink3: #ff339c; /* Dark Pastel Pink */
+  --tf-pink4: #ffddee; /* Pale Pastel Pink */
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: var(--tf-pink1);
+  --tf-pill-bg: var(--tf-pink3);
+  --tf-icon-fill: var(--tf-pink1);
+  --tf-icon-hover: var(--tf-pink3);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-pink4);
+  --tf-projects-bg-color: var(--tf-pink4);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--tf-pink1);
+  font-family: Rubik;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-pink1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-pink1);
+  border-style: solid;
+  border-width: 1px;
+}
