@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Significance of Smart Questions in Software Engineering: Lessons from StackOverflow"
+title: "The Importance of Smart Questions in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-08
 published: true
@@ -13,7 +13,7 @@ labels:
 
 ![Smart Questions](https://example.com/smart-questions-image.jpg)
 
-*Communication is a vital skill in software engineering, and asking questions the "smart way" is a cornerstone of effective communication.*
+*"Take your time. Do not expect to be able to solve a complicated problem with a few seconds of Googling. Read and understand the FAQs, sit back, relax and give the problem some thought before approaching experts."*
 
 Recently, I embarked on an exploration of StackOverflow to uncover the impact of asking questions using Eric Raymond's guidelines for smart questions. In this essay, I will discuss why smart questions are essential for software engineers, how two specific questions align (or don't) with these principles, how the responses reflect the smartness (or lack thereof), and the valuable insights gained from this experience.
 
@@ -25,7 +25,7 @@ Smart questions play a pivotal role in the software engineering landscape as the
 
 **Question**: [How to sort a list of integers in Python?](https://stackoverflow.com/questions/46563416/how-to-sort-a-list-of-integers-in-python)
 
-**Summary**: This developer presents a model smart question. They articulate a clear and concise query regarding the sorting of integers in Python. The question includes pertinent details such as a code snippet and the desired outcome, adhering to Raymond's counsel of providing context and demonstrating effort.
+**Summary**: This developer presents a model smart question. They articulate a clear and concise query regarding the sorting of integers in Python. The question includes pertinent details such as a code snippet and the desired outcome, adhering to Raymond's counsel of providing context and demonstrating effort. They aslo 
 
 **Responses**: The community reciprocates with concise and effective answers, offering multiple well-documented solutions. These responses encompass explanations, code examples, and discussions of pros and cons. This showcase of valuable input from experienced developers reinforces the idea that smart questions yield helpful answers.
 
@@ -37,11 +37,9 @@ Conversely, posing questions in a "not so smart way" can introduce confusion and
 
 **Not-So-Smart Question Example**:
 
-**Question**: [pls help me with my code it doesnt work](https://stackoverflow.com/questions/55512345/pls-help-me-with-my-code-it-doesnt-work)
+**Question**: [What are metaclasses in Python?]([https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python/6581949#6581949])
 
-**Summary**: In this case, the developer submits a vague question devoid of context. No code or specific issue is presented. This question falls short of Raymond's principles as it lacks clarity and effort.
-
-**Responses**: The community members hesitate to respond due to the scarcity of information. Some seek clarification, while others offer generic advice. The resultant responses are scattered and unproductive, reflecting the challenges posed by questions devoid of essential details.
+**Summary**: In this case, the developer submits a vague question devoid of context. No code or specific issue is presented. This question falls short of Raymond's principles as it lacks clarity and effort.  This is something the user could have done some research on first to get some form of understanding on metaclasses, and then ask a more specific question about them.  
 
 **Insights**: Not-so-smart questions introduce frustration within the community, demanding additional effort to extract necessary information. This inefficiency often leads to incomplete or irrelevant responses, complicating the resolution of the issue at hand.
 
