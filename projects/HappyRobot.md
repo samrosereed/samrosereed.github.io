@@ -1,12 +1,13 @@
 ---
 layout: project
 type: project
-image: img/HappyRobot/nao_cute(1).jpg
+image: img/HappyRobot/nao_cute (1).jpg
 title: "Happy Robot"
 date: 2023
 published: true
 labels:
   - Robotics
+  - NAO Robots
   - Choregraphe
   - Python
 summary: "An indepedent research project with the goal of programming the robot to tell jokes when someone appeared sad."
