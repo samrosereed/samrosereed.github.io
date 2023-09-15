@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HappyRobot/nao_cute (1).jpg
+image: img/HappyRobot/nao_icon (1).jpg
 title: "Happy Robot"
 date: 2023
 published: true
