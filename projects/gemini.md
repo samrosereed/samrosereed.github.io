@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gemini/gemini-pic1.jpg
+image: img/gemini/gemini-pic1 (1).jpg
 title: "Gemini Observatory's Next Generation Engineering Archive "
 date: 2023
 published: true
