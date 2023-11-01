@@ -11,43 +11,69 @@ labels:
   - Final Project
 ---
 
-# Building a Centralized Debris Management System for Environmental Stewardship
-#### By Bibiana Garcia, Princess Balasico, Heinrich Maertens, Samantha Reed, Omar Zaidi
-## Introduction
+## Large marine debris reporting, dispatching, documenting platform
+##### By Bibiana Garcia, Princess Balasico, Heinrich Maertens, Samantha Reed, Omar Zaidi
 
-Large marine debris (mostly plastic derelict fishing gear) washes ashore
-frequently in Hawaii and needs to be removed. The detection by public needs
-to be more efficiently dispatched to the removal organizations. Their removal
-efforts need to be coordinated. And in order to quantify how much debris is
-being removed and disposed, a database is needed that captures information
-from detection in the ocean, removal, debris type assessments, to
-disposal/recycling choices.
+# Overview
 
-## Centralized Database and Dispatch System
+## The Problem
 
-### Comprehensive Data Collection
+In the context of environmental stewardship, marine debris management poses a significant challenge. Various organizations and individuals are actively involved in detecting, removing, and responsibly disposing of debris in our oceans. However, there exists a critical need to enhance communication and data recording processes, which is currently lacking. This essay explores a proposal for a comprehensive Centralized Database and Dispatch System designed to address this issue.
 
-Efficient communication is the cornerstone of this system. It enables organizations to receive and act upon reports swiftly, minimizing response times and maximizing debris removal efficiency. The system includes a hotline, a user-friendly website, and a mobile application for easy reporting.
+## The Solution
 
-The cradle-to-grave database captures information at all seven steps of debris management, ensuring that no crucial data is lost in the process. The database tracks debris amounts and proportions by mapped location, removal efficiency, debris type, polymer type, and disposal mechanism.
+The proposed Centralized Database and Dispatch System offers a robust solution to streamline the management of marine debris. It focuses on real-time public access, efficient communication tools, and comprehensive data collection at all stages of debris management. This system empowers both civilians and debris removal organizations to collaborate effectively and contribute to a cleaner environment.
 
-## Quantifying Debris Removal
+# Mockup Page Ideas
 
-To measure the effectiveness of debris removal efforts, a robust database is indispensable. This database collects information from the initial detection of debris in the ocean to its removal, including assessments of debris types and disposal/recycling choices.
+To visualize the functionality and user experience of the Centralized Database and Dispatch System, several mockup page ideas can be explored:
+
+- **Homepage:** An engaging landing page welcoming users and providing an overview of the system's capabilities.
+
+- **Debris Reporting Page:** A user-friendly interface for civilians to report debris, including options to specify location, type, and attach photos.
+
+- **Organization Dashboard:** A dedicated dashboard for debris pick-up organizations, featuring a list of reported debris, claims, and resolved cases.
+
+- **Interactive Map:** A dynamic map displaying reported debris locations, allowing users to explore data visually.
+
+- **User Profile Page:** User accounts and profiles, offering a personalized experience and the ability to track reported debris.
+
+- **Data Analytics Dashboard:** An analytical dashboard for visualizing debris data over time, helping users understand patterns and trends.
+
+- **Mobile App Screens:** Design screens for the mobile application, ensuring seamless reporting and tracking on mobile devices.
+
+# Use Case Ideas
+
+The Centralized Database and Dispatch System can cater to various use cases, demonstrating its versatility and effectiveness:
+
+- **Civic Engagement:** Local residents can use the system to report debris in their area, promoting community engagement in environmental efforts.
+
+- **Beach Cleanup Organizations:** Non-profit organizations can claim and manage debris removal tasks efficiently, enhancing their impact.
+
+- **Government Agencies:** Government entities can access data to make informed decisions and allocate resources for marine debris management.
+
+- **Researchers:** Scientists can utilize the data to conduct research on marine debris, contributing to a better understanding of the issue.
+
+- **Educational Programs:** The system can support educational initiatives, allowing students to learn about environmental conservation through practical involvement.
+
+- **Corporate Responsibility:** Companies can participate in clean-up efforts and track their environmental impact using the system.
+
+# Beyond the Basics
+
+To further enhance the system's capabilities and impact, consider these advanced features and expansions:
+
+- **Machine Learning Integration:** Implement machine learning algorithms to classify debris types automatically from images and predict debris hotspots based on historical data.
+
+- **Global Collaboration:** Expand the system's reach to support international collaboration, enabling cross-border coordination in marine debris management.
+
+- **Public Awareness Campaigns:** Integrate educational resources and campaigns within the system to raise awareness and encourage responsible disposal practices.
+
+- **Blockchain for Data Integrity:** Utilize blockchain technology to ensure the immutability and integrity of debris data, enhancing trust and transparency.
+
+- **Integration with Drones and IoT Devices:** Incorporate drones and IoT devices to enhance debris detection and monitoring capabilities in remote or challenging-to-reach areas.
+
+- **Gamification Elements:** Add gamification features to incentivize user engagement, such as rewarding users for reporting debris or participating in clean-up events.
+
+By exploring these advanced features and expansions, the Centralized Database and Dispatch System can evolve into a powerful tool for marine debris management, making a substantial impact on environmental conservation.
 
 
-## User-Friendly Interface
-
-### Civilian User Side
-
-The platform offers a user-friendly interface for civilians to report debris. Key features include the ability to specify whether the debris is on land or in the water, share coordinates, and attach photos. Civilians have the choice to create a profile or report anonymously. An option for a call-back number is available for registered users, facilitating contact by authorities. To avoid repetitive submissions, the system identifies if the reported debris matches a previous report and suggests the possibility of adding comments or additional information.
-
-### Debris Pick-Up Organizations Side
-
-For debris pick-up organizations, the system allows for user creation with the option to choose to create an organization or work under an existing one. Organizations have special privileges, such as viewing a list of reported debris and claiming unresolved cases. They must adhere to specific timelines for debris pick-up, with a backup option in case the primary pick-up falls through. Organizations are also responsible for updating the system with information about the debris, including weight, size, type, and location.
-
-The database keeps track of reported debris in three categories: unresolved, claimed, and resolved. Users and organizations access these lists through the website/app. These lists are updated using a combination of manual inputs and importing data from Google Sheets. To ensure data integrity, a text sheet stores all data locally in case of connectivity issues with the Google Sheets platform.
-
-## Conclusion
-
-The proposed Centralized Database and Dispatch System provides a comprehensive solution to the challenges of marine debris management. By enabling real-time public access, enhancing communication among stakeholders, and systematically collecting data at every stage of debris management, this system can be a game-changer in our efforts to protect the environment. It empowers both civilians and debris removal organizations to join forces and work together towards a cleaner, healthier planet.
