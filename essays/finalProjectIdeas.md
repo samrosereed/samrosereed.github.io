@@ -12,7 +12,7 @@ labels:
 ---
 
 # Building a Centralized Debris Management System for Environmental Stewardship
-### By Bibiana Garcia, Princess Balasico, Heinrich Maertens, Samantha Reed, Omar Zaidi
+#### By Bibiana Garcia, Princess Balasico, Heinrich Maertens, Samantha Reed, Omar Zaidi
 ## Introduction
 
 In an age when the environment demands our utmost attention, the management of marine debris has become an imperative task. Various organizations and individuals have recognized the need to streamline their efforts in detecting, removing, and responsibly disposing of debris in our oceans. The current scenario, however, reveals a lack of efficient communication among these entities and a scarcity of mechanisms to record and report data on debris removal. This essay explores the proposal for a comprehensive Centralized Database and Dispatch System, emphasizing real-time public access, effective dispatch communication tools, and a holistic database that captures data at all seven stages of debris management.
