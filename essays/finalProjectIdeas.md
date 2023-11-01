@@ -1,42 +1,58 @@
 ---
 layout: essay
 type: essay
-title: "A Reflection on Coding Standards"
+title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-22
+date: 2023-10-31
 published: true
 labels:
+  - Meteor
   - Software Engineering
-  - Coding Standards
+  - Final Project
 ---
+
+# Building a Centralized Debris Management System for Environmental Stewardship
 
 ## Introduction
 
-Coding standards are often dismissed as trivial by many in the world of software development. These standards encompass seemingly minor details like the number of spaces for indentation or the placement of a close-curly-brace. However, I strongly believe that coding standards are not just about aesthetics; they play a pivotal role in improving code quality and can even expedite the learning process of a programming language. In this essay, I will share my personal perspective on coding standards, emphasizing their importance and exploring their impact, especially in the context of using ESLint with IntelliJ.
+In an age when the environment demands our utmost attention, the management of marine debris has become an imperative task. Various organizations and individuals have recognized the need to streamline their efforts in detecting, removing, and responsibly disposing of debris in our oceans. The current scenario, however, reveals a lack of efficient communication among these entities and a scarcity of mechanisms to record and report data on debris removal. This essay explores the proposal for a comprehensive Centralized Database and Dispatch System, emphasizing real-time public access, effective dispatch communication tools, and a holistic database that captures data at all seven stages of debris management.
 
-## The Significance of Coding Standards
+## Centralized Database and Dispatch System
 
-Coding standards, at their core, are a set of guidelines that developers adhere to when writing code. They serve as a shared language that facilitates collaboration and ensures consistency across a project. At first glance, these standards may seem pedantic, but they can have a profound impact on software development.
+### Real-Time Public-Access
 
-One of the most compelling arguments in favor of coding standards is the enhancement of code readability. Clean and consistent code is easier to understand, maintain, and debug. When you revisit your own code or collaborate with other developers, you'll find that adhering to standards greatly simplifies the process. As a 20-year-old developer, I have experienced firsthand how coding standards can save me from the confusion of deciphering messy code, allowing me to focus on problem-solving and creativity.
+The heart of this system is a centralized database accessible in real-time by the public. This database serves as a reservoir of information, allowing civilians and debris removal organizations to seamlessly interact with each other and contribute to a cleaner environment.
 
-## Learning through Coding Standards
+### Dispatch Communication Tools
 
-Interestingly, coding standards can also function as an educational tool. When you start learning a programming language, it can be overwhelming. However, following coding standards can provide structure and guidance. For instance, adhering to conventions for variable naming and code organization can help beginners grasp the syntax and best practices more quickly.
+Efficient communication is the cornerstone of this system. It enables organizations to receive and act upon reports swiftly, minimizing response times and maximizing debris removal efficiency. The system includes a hotline, a user-friendly website, and a mobile application for easy reporting.
 
-## ESLint and IntelliJ: A New Perspective
+### Comprehensive Data Collection
 
-ESLint, coupled with the IntelliJ IDE, offers a powerful way to enforce coding standards in real-time. After my first week of using ESLint with IntelliJ, I find it to be a transformative experience.
+The cradle-to-grave database captures information at all seven steps of debris management, ensuring that no crucial data is lost in the process. The database tracks debris amounts and proportions by mapped location, removal efficiency, debris type, polymer type, and disposal mechanism.
 
-**Painful or Useful?**: ESLint's green checkmark can be both painful and useful, depending on your perspective. At times, it feels frustrating when your code is littered with red squiggly lines, indicating violations of coding standards. However, these warnings are invaluable. They force you to pause, reflect, and correct your code, ensuring that it aligns with best practices. In this sense, the green checkmark is an ally, pushing you towards cleaner and more efficient code.
+## Quantifying Debris Removal
 
-**Learning Tool:** ESLint goes beyond being just a strict taskmaster. It becomes a mentor that guides you through the language's nuances and best practices. As a young developer, I appreciate how ESLint helps me internalize these standards, making me a better coder with each correction.
+To measure the effectiveness of debris removal efforts, a robust database is indispensable. This database collects information from the initial detection of debris in the ocean to its removal, including assessments of debris types and disposal/recycling choices.
 
-**Consistency and Collaboration:** ESLint, integrated with IntelliJ, fosters consistency across a team of developers. It ensures that everyone follows the same set of rules, minimizing conflicts and misunderstandings. This harmonious coding environment not only improves code quality but also makes collaborative projects more enjoyable and efficient.
+## The Need for Better Communication
+
+It is evident that several organizations exist to remove debris, but their efficacy is hindered by a lack of communication and follow-up. Moreover, the absence of a system to record debris type and amount creates a significant knowledge gap. Therefore, a flexible platform is essential not only for efficient coordination among organizations but also for engaging local communities in this environmental cause.
+
+## User-Friendly Interface
+
+### Civilian User Side
+
+The platform offers a user-friendly interface for civilians to report debris. Key features include the ability to specify whether the debris is on land or in the water, share coordinates, and attach photos. Civilians have the choice to create a profile or report anonymously. An option for a call-back number is available for registered users, facilitating contact by authorities. To avoid repetitive submissions, the system identifies if the reported debris matches a previous report and suggests the possibility of adding comments or additional information.
+
+### Debris Pick-Up Organizations Side
+
+For debris pick-up organizations, the system allows for user creation with the option to choose to create an organization or work under an existing one. Organizations have special privileges, such as viewing a list of reported debris and claiming unresolved cases. They must adhere to specific timelines for debris pick-up, with a backup option in case the primary pick-up falls through. Organizations are also responsible for updating the system with information about the debris, including weight, size, type, and location.
+
+## Data Management
+
+The database keeps track of reported debris in three categories: unresolved, claimed, and resolved. Users and organizations access these lists through the website/app. These lists are updated using a combination of manual inputs and importing data from Google Sheets. To ensure data integrity, a text sheet stores all data locally in case of connectivity issues with the Google Sheets platform.
 
 ## Conclusion
 
-In conclusion, coding standards are far from trivial, and they should hold a central place in the toolkit of every software developer. Their significance extends beyond mere aesthetics, influencing code quality, readability, and even the learning curve for programming languages. My experience with ESLint and IntelliJ has further reinforced my belief in the importance of coding standards. While it can be challenging to see the red squiggly lines, they are a testament to the continuous journey of improvement that coding standards inspire. Embracing these standards not only elevates our coding skills but also enhances our ability to work harmoniously in a team-driven industry. So, to answer the question posed at the beginning, yes, I wholeheartedly agree that coding standards are indispensable in the world of software engineering.
-
-
-
+The proposed Centralized Database and Dispatch System provides a comprehensive solution to the challenges of marine debris management. By enabling real-time public access, enhancing communication among stakeholders, and systematically collecting data at every stage of debris management, this system can be a game-changer in our efforts to protect the environment. It empowers both civilians and debris removal organizations to join forces and work together towards a cleaner, healthier planet.
