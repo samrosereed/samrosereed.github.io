@@ -16,11 +16,14 @@ Artificial Intelligence has rapidly changed how many of us approach our problems
 
 ## II. Personal Experience with AI:
 ##### 1. Experience WODs e.g. E18
-- I utilized AI to understand the 
+- I utilized AI to explain the necessary componenets of the solution. 
+  
 ##### 2. In-class Practice WODs
-- Here I tried to complete the WODs without AI but when I got stuck, AI was helpful in guiding me in the right direction but rarely provided complete solutions.  Further refining was often essential.  
+- Here I tried to complete the WODs without AI but when I got stuck, AI was helpful in guiding me in the right direction but rarely provided complete solutions.  Further refining was often essential.
+  
 ##### 3. In-class WODs
-- 
+- Early on, I avoided using AI to push myself to solve problems independently but later, I began using ChatGPT and Github Copilot for helpful hints.  Depending on the code, AI proved extremely helpful and only needed minor adjustments but other times, I felt like the AI written code was not accurate at all.  Since the in class WODs were time sensitive, I learned that while AI could be helpful, you could not completely rely on it.
+  
 ##### 4. Essays
 ##### 5. Final project
 - AI was helpful in some instances for debugging but for the most part,
