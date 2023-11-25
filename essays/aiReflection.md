@@ -25,18 +25,37 @@ Artificial Intelligence has rapidly changed how many of us approach our problems
 - Early on, I avoided using AI to push myself to solve problems independently but later, I began using ChatGPT and Github Copilot for helpful hints.  Depending on the code, AI proved extremely helpful and only needed minor adjustments but other times, I felt like the AI written code was not accurate at all.  Since the in class WODs were time sensitive, I learned that while AI could be helpful, you could not completely rely on it.
   
 ##### 4. Essays
+- AI was helpful in summarizing and phrasing ideas and concepts in an elegant way.
+  
 ##### 5. Final project
-- AI was helpful in some instances for debugging but for the most part,
+- AI was helpful in some instances for debugging but for the most part, as our code became more involved, AI was not utilized.
+  
 ##### 6. Learning a concept / tutorial
-- AI  helpful summaries of concepts and 
+- AI was a helpful tool for summaries of concepts and how to utilize certain software tools.
+  
 ##### 7. Answering a question in class or in Discord
+- AI could be helpful to answer simple questions in class but I did not personally use it for Discord questions.
+  
 ##### 8. Asking or answering a smart-question
+- AI could be helpful in giving the starting point for the answers to a smart-question but it rarely gave a complete solution.
+  
 ##### 9. Coding example e.g. “give an example of using Underscore .pluck”
+- AI was helpful in basic examples but for more in-depth understandings of code it was not detailed enough. 
+  
 ##### 10. Explaining code
+- AI was helpful in explaining code and adding comments to code.
+  
 ##### 11. Writing code
+- AI provided useful pieces of code that was often used as a starting point.
+  
 ##### 12. Documenting code
+- Beyond writing basic comments to code, AI was not very helpful in this instance.
+   
 ##### 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+- I used AI regularly for quality assurance, copying and pasting my code to try and understand what was going wrong.  It could be very hit or miss depending on the code, but I found that the more specific the prompting resulted in more helpful responses.
+  
 ##### 14. Other uses in ICS 314 not listed
+- AI was helpful when I ran into problems installing software. 
 
 ## III. Impact on Learning and Understanding:
 
