@@ -10,6 +10,8 @@ labels:
   - Artificial Intelligence
 ---
 
+<img class="img-fluid" src="../img/cuteAI.png">
+
 ## I. Introduction
 
 Artificial Intelligence has rapidly changed how many of us approach our problems.  For students, the accessibility of AI has been an absolute game changer for how we learn.  While most classes frown on the use of AI in assignments and learning, ICS 314 embraces AI and sees it as just another tool to be utilized. In this essay I will discuss how AI tools, methodologies, and concepts have influenced my learning and understanding of software engineering principles in ICS 314. 
