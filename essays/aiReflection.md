@@ -12,7 +12,7 @@ labels:
 
 ## I. Introduction
 
-Artificial Intelligence has rapidly changed how many of us approach our problems.  For students, the accessibility of AI has been an absolute game changer for how we learn.  In this essay I will discuss how AI tools, methodologies, and concepts have influenced my learning and understanding of software engineering principles in ICS 314. 
+Artificial Intelligence has rapidly changed how many of us approach our problems.  For students, the accessibility of AI has been an absolute game changer for how we learn.  While most classes frown on the use of AI in assignments and learning, ICS 314 embraces AI and sees it as just another tool to be utilized. In this essay I will discuss how AI tools, methodologies, and concepts have influenced my learning and understanding of software engineering principles in ICS 314. 
 
 ## II. Personal Experience with AI:
 ##### 1. Experience WODs e.g. E18
@@ -58,7 +58,7 @@ Artificial Intelligence has rapidly changed how many of us approach our problems
 - AI was helpful when I ran into problems installing software. 
 
 ## III. Impact on Learning and Understanding:
-
+The incorporation of AI in ICS 314 has impacted my learning and understanding in a positive way.
 ## IV. Practical Applications:
 
 ## V. Challenges and Opportunities:
