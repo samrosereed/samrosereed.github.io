@@ -58,11 +58,12 @@ Artificial Intelligence has rapidly changed how many of us approach our problems
 - AI was helpful when I ran into problems installing software. 
 
 ## III. Impact on Learning and Understanding:
-The incorporation of AI in ICS 314 has impacted my learning and understanding in a positive way. AI-driven tools like Co-Pilot played a helpful role in honing my coding skills. The instant code suggestions and completion features not only expedited coding but also began to really help me understand the code.
+The incorporation of AI in ICS 314 has impacted my learning and understanding in a generally positive way. AI-driven tools like ChatGpt and Github Co-Pilot played a helpful role in honing my coding skills. The instant code suggestions and completion features not only expedited coding but also began to really help me understand the code.
 
-The application of AI in ICS 314 has challenged my understanding of software engineering concepts in a positive way. By introducing AI as a collaborative partner in the learning process, I have been prompted to critically evaluate and refine my understanding, recognizing intricacies of real-world software development scenarios.
+The application of AI in ICS 314 has challenged my understanding of software engineering concepts in a positive way. By introducing AI as a collaborative partner in the learning process, I have been prompted to critically evaluate and refine my understanding of software development engineering.
 
 ## IV. Practical Applications:
+Anecdotally, at my internship this summer, I was surprised to find that the software team utilized AI regularly to help them problem solve.  
 
 ## V. Challenges and Opportunities:
 While the incorporation of AI in ICS 314 has brought numerous benefits, it has not been without its challenges. One notable challenge is the potential over-reliance on AI tools, leading to a passive learning experience. Balancing the use of AI as a supplementary tool rather than a substitute for active engagement remains a crucial consideration.
@@ -72,5 +73,5 @@ While the incorporation of AI in ICS 314 has brought numerous benefits, it has n
 ## VII. Future Considerations:
 
 ## VII. Conclusion: 
-
+In conclusion, the incorporation of AI in ICS 314 has been a transformative experience, influencing my learning, comprehension, and practical skills in software engineering. The practical applications of AI in real-world projects and collaborative activities underscore its effectiveness in addressing complex challenges. While challenges and opportunities exist, a thoughtful and balanced integration of AI in software engineering education holds great promise for preparing students for the dynamic landscape of the tech industry. While AI is ever evolving, an emphasis on responsible AI use and a commitment to enhancing the learning experience is essential.
 
