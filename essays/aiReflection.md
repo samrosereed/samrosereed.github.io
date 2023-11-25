@@ -65,6 +65,7 @@ The application of AI in ICS 314 has challenged my understanding of software eng
 ## IV. Practical Applications:
 
 ## V. Challenges and Opportunities:
+While the incorporation of AI in ICS 314 has brought numerous benefits, it has not been without its challenges. One notable challenge is the potential over-reliance on AI tools, leading to a passive learning experience. Balancing the use of AI as a supplementary tool rather than a substitute for active engagement remains a crucial consideration.
 
 ## VI. Comparative Analysis:
 
