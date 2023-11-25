@@ -69,11 +69,12 @@ AI was utilized during my participation of the HACC this year, proving helpful t
 While the incorporation of AI in ICS 314 has brought numerous benefits, it has not been without its challenges. One notable challenge is the potential over-reliance on AI tools, leading to a passive learning experience. Balancing the use of AI as a supplementary tool rather than a substitute for active engagement is crucial.
 
 ## VI. Comparative Analysis:
+Personally, I found ICS 314's approach of utilizing AI as a tool for education more helpful than other classes that frown on it.  In terms of knowledge retention, AI tools offer the advantage of continuous reinforcement, you can continue prompting ChatGPT to further learn and understand certian concepts. And the immediate feedback provided by tools like Co-Pilot is really helpful in understanding the intracicies of code. Overall, I feel like the hands-on approach of learning with AI really helpful in understanding software engineering concepts.
 
 
 ## VII. Future Considerations:
 As AI continues to advance, I can only imagine what impact it will have on education in the future.  While I already find AI tools helpful in ICS 314, there improvement will undoubtedly help students even more in the future.  But as said, it can be complex to determine how to ensure that students are not over-relying on these AI tools and are actually learning. 
 
 ## VII. Conclusion: 
-In conclusion, the incorporation of AI in ICS 314 has been a really cool experience, influencing my learning, comprehension, and practical skills in software engineering. The practical applications of AI in real-world projects and collaborative activities underscore its effectiveness in addressing complex challenges. While challenges and opportunities exist, a thoughtful and balanced integration of AI in software engineering education holds great promise for preparing students for the dynamic landscape of the tech industry. While AI is ever evolving, an emphasis on responsible AI use and a commitment to enhancing the learning experience is essential.
+In conclusion, the incorporation of AI in ICS 314 has been a really cool experience, influencing my learning, comprehension, and practical skills in software engineering. The practical applications of AI in real-world projects and collaborative activities underscore its effectiveness in addressing complex challenges. While challenges and opportunities exist, a reponsibile and balanced integration of AI in software engineering education holds great promise for preparing students for the dynamic landscape of the tech industry. While AI is ever evolving, an emphasis on responsible AI use and a commitment to enhancing the learning experience is essential.
 
