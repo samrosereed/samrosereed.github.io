@@ -58,7 +58,10 @@ Artificial Intelligence has rapidly changed how many of us approach our problems
 - AI was helpful when I ran into problems installing software. 
 
 ## III. Impact on Learning and Understanding:
-The incorporation of AI in ICS 314 has impacted my learning and understanding in a positive way.
+The incorporation of AI in ICS 314 has impacted my learning and understanding in a positive way. AI-driven tools like Co-Pilot played a helpful role in honing my coding skills. The instant code suggestions and completion features not only expedited coding but also began to really help me understand the code.
+
+The application of AI in ICS 314 has challenged my understanding of software engineering concepts in a positive way. By introducing AI as a collaborative partner in the learning process, I have been prompted to critically evaluate and refine my understanding, recognizing intricacies of real-world software development scenarios.
+
 ## IV. Practical Applications:
 
 ## V. Challenges and Opportunities:
