@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Samantha Reed",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/122492157?s=400&u=fe8810a407121bcfe912bc4a3c6a08ec7b38dc97&v=4",
+    "email": "srreed@hawaii.edu",
+    "phone": "",
+    "website": "https://samrosereed.github.io/samrosereed/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "samrosereed", "url": "https://github.com/samrosereed" },
+      { "network": "linkedin", "username": "samrosereed", "url": "https://www.linkedin.com/in/samantha-reed-a2939a28a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Robotics" },
+    { "name": "Mathematics" },
+    { "name": "Baking" },
+
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2023-01-09",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "Kapi'olani Community College",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-30",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Kapi'olani Community College STEM Center",
+      "position": "Peer Mentor",
+      "website": "",
+      "startDate": "2022-09-15",
+      "endDate": "Present",
+      "summary": "Help students in math and CS courses",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Akamai Workforce Initiative ",
+      "position": "Software Engineering Intern at Gemini Observatory",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-07",
+      "summary": "",
+      "highlights": [
+        "Built a protoype for next generation engineering archive"      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Math Achievement Award",
+      "date": "Spring 2022",
+      "awarder": "Kapiolani Community College",
+      "summary": "Merit based award to students that excel in STEM courses."
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
